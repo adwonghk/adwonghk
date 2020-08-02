@@ -1,11 +1,11 @@
 ### Hi there, I'm Adrian Wong - aka [Ad_Wong][website] 👋
 
 ## I'm a Student Developer!
-- 💻 I’m currently working as an tech intern on [Paititi][paititi_website]!
+- 💻 I’m currently working as an tech intern at [Paititi][paititi_website]!
 - 🏫 I’m currently studying in Hong Kong University of Science and Technology
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Build more fun and interesting projects!
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love to play computer games!
 
 ### Connect with me:
 
