@@ -32,13 +32,13 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
 
 <br />
+<br />
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github
 
 <img align="left" alt="Adrian Wong's Github Stats" src="https://github-readme-stats.vercel.app/api?username=adwonghk&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&hide=prs" />
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adwonghk&layout=compact&theme=tokyonight" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adwonghk)](https://github.com/adwonghk/)
 
 [website]: http://chwongbx.student.ust.hk/
 [youtube]: https://www.youtube.com/channel/UCIFi6blbC_eaGAqJJbDiCxA
