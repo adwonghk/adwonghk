@@ -3,7 +3,7 @@
 ## I'm a Student Developer!
 - 🏫 I’m currently studying in Hong Kong University of Science and Technology
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Build more fun and interesting projects!
+- 🥅 2021 Goals: Build more fun and interesting projects!
 - ⚡ Fun fact: I love to play computer games!
 
 ### Connect with me:
