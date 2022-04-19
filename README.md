@@ -3,7 +3,7 @@
 ## I'm a Full Time Software Developer!
 - 🏫 I graduated from Hong Kong University of Science and Technology
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Build more fun and interesting projects!
+- 🥅 2022 Goal: Build more fun and interesting projects!
 - ⚡ I love to play various computer games!
 
 ### Connect with me:
