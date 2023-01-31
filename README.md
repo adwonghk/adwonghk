@@ -3,8 +3,8 @@
 ## I'm a Full Time Software Developer!
 - 🏫 I graduated from Hong Kong University of Science and Technology
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goal: Build more fun and interesting projects!
-- ⚡ I love to play various computer games!
+- 🥅 2023 Goal: Build more fun and interesting projects!
+- ⚡ Fun fact: Breath of the Wild is my favourite game!
 
 ### Connect with me:
 
